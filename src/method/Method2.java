@@ -7,7 +7,7 @@ public class Method2 {
 		printFooter();
 	}
 	public static void printHeader(){
-		System.out.println("= 프로그램을 종료합니다");
+		System.out.println("= 프로그램이 동작합니다");
 		return;
 	}
 

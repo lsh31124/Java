@@ -2,8 +2,8 @@ package oop1;
 
 public class RectangleProceduralMain {
     public static void main(String[] args) {
-        int width = 10;
-        int height = 20;
+        int width = 5;
+        int height = 8;
         int area = calculateArea(width, height);
         System.out.println("넓이: " + area);
 

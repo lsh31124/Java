@@ -15,5 +15,6 @@ public class Array1 {
 		System.out.println("학생4 점수: "+student4);
 		System.out.println("학생5 점수: "+student5);
 		System.out.println("학생4 점수: "+student6);
+
 	}
 }
