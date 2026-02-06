@@ -18,9 +18,6 @@ public class Method2 {
 	}
 
 
-
-
-
 	static void printStudent(Student student) {
 		System.out.println("이름:" + student.name + "나이:" + student.age + "성적:" +student.grade);
 	}

@@ -18,7 +18,7 @@ public class VarChange2 {
 
 		dataB.value =30;
 		System.out.println("변경 dataB.value =30");
-		System.out.println("dataB.value ="+dataA.value);
+		System.out.println("dataA.value ="+dataA.value);
 		System.out.println("dataB.value ="+dataB.value);
 
 
