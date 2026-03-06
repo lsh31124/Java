@@ -1,4 +1,4 @@
-package finall;
+package finall1;
 
 public class FieldInit {
     static final int CONST_VALUE = 10;

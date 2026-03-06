@@ -1,10 +1,8 @@
 package oop1;
 
 
-import static oop1.RectangleProceduralMain.*;
-
 public class RectangleOopMain {
-    public static void main(String[] args) {
+      static void main(String[] args) {
         Rectangle rectangle = new Rectangle();
         rectangle.width = 5;
         rectangle.height = 8;

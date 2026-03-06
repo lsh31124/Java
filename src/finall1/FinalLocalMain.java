@@ -1,4 +1,4 @@
-package finall;
+package finall1;
 
 public class FinalLocalMain {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package poly.basic;
 
 public class Parent {
-	public void parentMethod() {
-		System.out.println("Parent.parent.Method");
-	}
+    public void parentMethod(){
+        System.out.println("Parent");
+    }
 }
